@@ -1,0 +1,37 @@
+body{
+ 
+    background-image: url('https://www.koreaetour.com/wp-content/uploads/2020/02/1%EC%B8%B5-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4.jpg');
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF
+    
+   }
+
+.cabecera{
+    background-color: black; 
+    padding: 20px; 
+}
+
+h1 {
+    color: white;
+    font-size: 80px;
+    text-align: center;
+   
+}
+
+.marquee{
+    color: white;
+}
+
+.h5{
+    color: white;
+   
+}
+
+.fs-1{
+    color: black;
+    text-align: center;
+    background-color: #D7CBBD;
+
+}
