@@ -1,0 +1,28 @@
+body{
+ 
+    background-image: url('https://cdn.pixabay.com/photo/2021/07/15/08/43/abstract-6467847_640.png');
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-size: cover;
+    color: #FFFFFF
+    
+   }
+
+ header{
+    color:  #157AB8;
+    text-align: center;
+    
+   }
+h1{
+    size: 20px;
+}
+
+.cardmb-3{
+    text-align: center;
+
+}
+.carouselExampleCaptions{
+    text-align: center;
+    color: white;
+
+}
